@@ -121,7 +121,10 @@ python3 -v
 
 
 ## Basic Syntax
+
 Overview of Python syntax and basic programming constructs.
+
+For a detailed explanation, refer to [syntax.py](python_basic/syntax.py).
 
 ## Data Types
 Explanation of different data types in Python such as integers, floats, strings, lists, tuples, dictionaries, and sets.
