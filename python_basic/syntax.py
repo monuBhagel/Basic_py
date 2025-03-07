@@ -1,5 +1,4 @@
 # This file contains the basic syntax of python programming language , which includes:
-# - Comments
 # - Print statement
 # - Variables and data types
 # - Lists
@@ -10,22 +9,6 @@
 # - Functions
 # - Classes and Objects
 
-# This is a comment in Python . the comment in python is denoted by '#' symbole.
-"""for multi-line comment we use ''' ''' or """ """ i.e triple quotes
-this is multi-line comment in python.
-Also comments are not executed by python interpreter and are used for understanding the code / documentation and debugging purpose.
-"""
-
-# Python Indentation
-# Indentation is very important in Python. It is used to define the level of nesting of code blocks.
-# For example, in conditional statements and loops, indentation is used to define the scope of the code block.
-
-if True:
-    # This is an indented block
-    print("This is indented")
-    if True:
-        # This is a nested indented block
-        print("This is nested and indented")
 
 # Print statement
 print("Hello, World!")
