@@ -41,25 +41,31 @@ Instructions on how to install Python on different operating systems.
     
     **1. Download Python Installer:**
 
-    [Download Python](https://www.python.org/downloads/)
-    "The website should automatically suggest the latest version of Python for Windows. 
-    Click the "Download Python" button."
+     [Download Python](https://www.python.org/downloads/)
+     The website should automatically suggest the latest version of Python for Windows. 
+     Click the "Download Python" button.
 
     **2. Run the Installer:**
 
-    'Make sure to check the box that says "Add Python to PATH" before clicking "Install Now." 
-    This will ensure you can run Python from the command line without needing to specify its full path.'
+     Make sure to check the box that says "Add Python to PATH" before clicking "Install Now." 
+     This will ensure you can run Python from the command line without needing to specify its full path.
 
     **3. Complete the Installation:**
 
+     Follow the prompts to complete the installation process.
+
     **4. Verify Installation:**
+     
+     Open Command Prompt (press Win + R, type cmd, and hit Enter).
     
-    Open Command Prompt (press Win + R, type cmd, and hit Enter).
-   
      Type the following to check the Python version:
-   ''' > python --version'''
-    or
-    '''>python -v'''
+     ```sh
+     python --version
+     ```
+     or
+     ```sh
+     python -v
+     ```
 
 
 ## Basic Syntax
