@@ -41,23 +41,23 @@ Instructions on how to install Python on different operating systems.
  **1. Download Python Installer:**
 
 [Download Python](https://www.python.org/downloads/)
-     The website should automatically suggest the latest version of Python for Windows. 
-     Click the "Download Python" button.
+ The website should automatically suggest the latest version of Python for Windows. 
+ Click the "Download Python" button.
 
 **2. Run the Installer:**
 
-     Make sure to check the box that says "Add Python to PATH" before clicking "Install Now." 
-     This will ensure you can run Python from the command line without needing to specify its full path.
+ Make sure to check the box that says "Add Python to PATH" before clicking "Install Now." 
+ This will ensure you can run Python from the command line without needing to specify its full path.
 
  **3. Complete the Installation:**
 
-     Follow the prompts to complete the installation process.
+ Follow the prompts to complete the installation process.
 
  **4. Verify Installation:**
      
-     Open Command Prompt (press Win + R, type cmd, and hit Enter).
+ Open Command Prompt (press Win + R, type cmd, and hit Enter).
     
-     Type the following to check the Python version:
+ Type the following to check the Python version:
  ```sh
      python --version
  ```
@@ -65,6 +65,59 @@ Instructions on how to install Python on different operating systems.
  ```sh
      python -v
  ```
+
+**2. On macOS**
+
+**1. Download Python Installer:**
+
+[Download Python](https://www.python.org/downloads/)
+The website should automatically suggest the latest version of Python for macOS.
+Click the "Download Python" button.
+
+**2. Run the Installer:**
+
+Open the downloaded .pkg file and follow the prompts to install Python.
+
+**3. Verify Installation:**
+
+Open Terminal (you can find it in Applications > Utilities or press Command + Space and type Terminal).
+
+Type the following to check the Python version:
+```sh
+python3 --version
+```
+
+```sh
+python3 -v
+```
+
+**3. Using Homebrew**
+
+**1. Install Homebrew:**
+
+If you don't have Homebrew installed, open Terminal and run:
+```sh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+**2. Install Python:**
+
+Once Homebrew is installed, run the following command to install Python:
+```sh
+brew install python
+```
+
+**3. Verify Installation:**
+
+Check the Python version to ensure it is installed correctly:
+```sh
+python3 --version
+```
+
+```sh
+python3 -v
+```
+
 
 
 ## Basic Syntax
