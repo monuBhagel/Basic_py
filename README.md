@@ -1,6 +1,6 @@
 # This is a Basic Python revision repo
 
-##Folder Structure :
+**Folder Structure :**
 ```
 basic_py
 ├─ README.md
