@@ -18,19 +18,18 @@ python is a High-level programming language.
 Crated by "Guido van Rossum in 1991."
 
 It is a general purpose programming language and is used in various sector such as :-
-    - web dev
-    - software developement
-    - machine learning tasks & AI
-    - database handling 
-    - automation & many more.
+- web dev
+- software developement
+- machine learning tasks & AI
+- database handling 
+- automation & many more.
 
 **Why use python ?**
-
-    -python works on multi-platform such as (windows, mac, linux, pi, etc).
-    -It has simple syntax similar to english language.
-    -It runs on an interpreter system . 
-    -Python can be treated in Procedural as well as  -Object-oriented and functional way.
-    -The most recent major version of Python is Python 3 and python has a good community of developers
+- python works on multi-platform such as (windows, mac, linux, pi, etc).
+- It has simple syntax similar to english language.
+- It runs on an interpreter system . 
+- Python can be treated in Procedural as well as  -Object-oriented and functional way.
+- The most recent major version of Python is Python 3 and python has a good community of developers
 
 
 
