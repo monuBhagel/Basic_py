@@ -4,6 +4,7 @@
 - [Introduction](#introduction)
 - [Installation](#installation)
 - [Basic Syntax](#basic-syntax)
+- [Variables](#variables)
 - [Data Types](#data-types)
 - [Control Structures](#control-structures)
 - [Functions](#functions)
@@ -125,6 +126,11 @@ python3 -v
 Overview of Python syntax and basic programming constructs.
 
 For a detailed explanation, refer to [syntax.py](python_basic/syntax.py).
+
+## Variables
+In Python, variables are used to store data that can be referenced and manipulated during program execution. 
+
+For a detailed explanation on what is variable , variable assingment , type and type casting , naming convention , refer to [understanding_variables](python_basic/understanding_variables).
 
 ## Data Types
 Explanation of different data types in Python such as integers, floats, strings, lists, tuples, dictionaries, and sets.
