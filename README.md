@@ -4,16 +4,28 @@
 
 ```
 basic_py
+├─ Input_output
+│  ├─ Output_Formatting.py
+│  ├─ input.py
+│  ├─ multiple_input.py
+│  ├─ output.py
+│  ├─ printing_var.py
+│  └─ type_casting_input.py
 ├─ README.md
 ├─ env_check.py
 ├─ first.py
+├─ general_syntax
+│  ├─ built_in_keywords.py
+│  ├─ comments_&_indentation.py
+│  ├─ keyword.md
+│  ├─ keywords.txt
+│  └─ syntax.py
 ├─ python.md
 ├─ python_basic
-│  ├─ comments_&_indentation.py
-│  ├─ syntax.py
 │  └─ understanding_variables
+│     ├─ global_variable.py
 │     ├─ naming_rules.md
-│     ├─ refernce in python.md
+│     ├─ reference_in_python.md
 │     ├─ type_&_type_casting.py
 │     ├─ variable_assingment.py
 │     └─ variables.py
