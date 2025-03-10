@@ -24,3 +24,6 @@ __pycache__/
 
 # Ignore pycharm .idea
 .idea
+
+# Ignore todo.txt
+TODO.txt
