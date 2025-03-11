@@ -57,3 +57,27 @@ print('number after sum is %d' %add)
 
 
 '''--------------------------------------------------------------------------'''
+
+# Advanced formatting with positional and named arguments
+
+# Mixing positional and named arguments
+template = "hello {0}, {1} and {other}."
+print(template.format("world", "you are", other="best"))
+
+# Using named arguments for clarity in complex formats
+print("python is  {a}, and i give it {b:.1f}".format(b=59.058 , a="great"))
+
+'''--------------------------------------------------------------------------'''
+
+# Formatting Output using String Method
+
+text = "python is carzy as hell ."
+
+# Printing the center aligned string with fillchr
+print(text.center(66,"#"))
+
+# Printing the left aligned string with "-" padding
+print(text.ljust(66,"-"))
+
+# Printing the right aligned string with "-" padding
+print(text.rjust(66,"-"))
