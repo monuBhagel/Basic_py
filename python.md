@@ -141,6 +141,8 @@ For a detailed explanation on input , output , refer to [Input Output folder](in
 ## Data Types
 Explanation of different data types in Python such as integers, floats, strings, lists, tuples, dictionaries, and sets.
 
+For a detailed explanation on input , output , refer to [data_types folder](data_types).
+
 ## Control Structures
 Details on control structures like if statements, loops (for, while), and comprehensions.
 
