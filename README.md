@@ -6,12 +6,16 @@
 basic_py
 ├─ Input_output
 │  ├─ Output_Formatting.py
+│  ├─ advance_i
+│  │  └─ p_tech.py
 │  ├─ input.py
 │  ├─ multiple_input.py
 │  ├─ output.py
 │  ├─ printing_var.py
 │  └─ type_casting_input.py
 ├─ README.md
+├─ data_types
+│  └─ python_data_type.md
 ├─ env_check.py
 ├─ first.py
 ├─ general_syntax
