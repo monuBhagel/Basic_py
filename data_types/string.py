@@ -1,4 +1,4 @@
-''' 
+''' String in python are immutable.
 String in python are surrounded by either single qotes and double quotes.
 python does not have a char type for single letter, so any single letter is a string of length 1.
 '''
