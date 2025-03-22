@@ -2,6 +2,7 @@
 
 **Folder Structure :**
 
+
 ```
 basic_py
 ├─ Input_output
@@ -15,6 +16,30 @@ basic_py
 │  └─ type_casting_input.py
 ├─ README.md
 ├─ data_types
+│  ├─ Boolean
+│  │  └─ boolean.py
+│  ├─ Numbers
+│  │  └─ number.py
+│  ├─ Sequence
+│  │  ├─ List
+│  │  │  ├─ access_using_loop.py
+│  │  │  ├─ accessing_list.py
+│  │  │  ├─ add_change_list.py
+│  │  │  ├─ copy_list.py
+│  │  │  ├─ join_list.py
+│  │  │  ├─ list.py
+│  │  │  ├─ list_comprehension.py
+│  │  │  ├─ list_methods.md
+│  │  │  ├─ method.py
+│  │  │  └─ sort_list.py
+│  │  └─ Tuple
+│  ├─ String
+│  │  ├─ format_string.py
+│  │  ├─ slicing_string.py
+│  │  ├─ string.py
+│  │  ├─ string_method.md
+│  │  ├─ string_method.py
+│  │  └─ string_modification.py
 │  └─ python_data_type.md
 ├─ env_check.py
 ├─ first.py
@@ -26,6 +51,7 @@ basic_py
 │  └─ syntax.py
 ├─ python.md
 ├─ python_basic
+│  ├─ operators.py
 │  └─ understanding_variables
 │     ├─ global_variable.py
 │     ├─ naming_rules.md
