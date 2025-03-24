@@ -2,7 +2,6 @@
 
 **Folder Structure :**
 
-
 ```
 basic_py
 ├─ Input_output
@@ -33,6 +32,12 @@ basic_py
 │  │  │  ├─ method.py
 │  │  │  └─ sort_list.py
 │  │  └─ Tuple
+│  │     ├─ access_tuple.py
+│  │     ├─ loop_tuple.py
+│  │     ├─ packing_inpacking.py
+│  │     ├─ tuple.py
+│  │     ├─ tuple_method&join.py
+│  │     └─ update_tuple.py
 │  ├─ String
 │  │  ├─ format_string.py
 │  │  ├─ slicing_string.py
