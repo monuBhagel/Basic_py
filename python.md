@@ -145,6 +145,7 @@ For a detailed explanation on input , output , refer to [data_types folder](data
 
 ## Control Structures
 Details on control structures like if statements, loops (for, while), and comprehensions.
+refer to [control structure folder](control_structure).
 
 ## Functions
 Information on defining and using functions in Python, including lambda functions.
