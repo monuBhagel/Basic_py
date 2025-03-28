@@ -20,6 +20,11 @@ basic_py
 │  ├─ Numbers
 │  │  └─ number.py
 │  ├─ Sequence
+│  │  ├─ Dictionary
+│  │  │  ├─ copy_dict.py
+│  │  │  ├─ dict.py
+│  │  │  ├─ looping_dict.py
+│  │  │  └─ nested_dict.py
 │  │  ├─ List
 │  │  │  ├─ access_using_loop.py
 │  │  │  ├─ accessing_list.py
@@ -31,6 +36,9 @@ basic_py
 │  │  │  ├─ list_methods.md
 │  │  │  ├─ method.py
 │  │  │  └─ sort_list.py
+│  │  ├─ Set
+│  │  │  ├─ modify_set.py
+│  │  │  └─ set.py
 │  │  └─ Tuple
 │  │     ├─ access_tuple.py
 │  │     ├─ loop_tuple.py
