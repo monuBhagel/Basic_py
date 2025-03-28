@@ -58,3 +58,47 @@ if "cherry" in fruit:
 else:
     print("cherry not exist")
 
+
+# adding new item to set
+
+print(f"fruits before add() : {fruits}")
+fruits.add("apple")
+print(f"fruits after add() : {fruits}")
+
+# copy a set into other
+
+fruits_copy  = fruits.copy()
+
+print(fruits_copy)
+print(fruits_copy == fruits)
+
+# removing a item from set
+
+fruits.remove("banana")
+print(f"fruits after remove('banana') : {fruits}")
+
+# removing using discard :
+fruits.discard("apple")
+
+print(f"fruits after discard('apple') : {fruits}")
+
+# removing a random item using pop()
+
+fruits.pop()
+
+print(f"fruits after pop() : {fruits}")
+
+# check if 
+
+fruits_2 = {"apple", "banana" , "cherry"}
+
+print(fruits_2.issubset(fruits))
+print(fruits_2.issuperset(fruits))
+
+print(fruits_2.isdisjoint(fruits))
+
+
+# removing all items from set
+
+fruits_copy.clear()
+print(fruits_copy)
