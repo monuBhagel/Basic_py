@@ -151,6 +151,10 @@ refer to [control structure folder](control_structure).
 Information on defining and using functions in Python, including lambda functions.
 refer to [function folder](function).
 
+## OOPS concept
+Information on defining and using classes and object in Python, including inheritance , polymorphism , encapsulation.
+refer to [OOPS folder](OOPS).
+
 ## Modules and Packages
 Guide on how to use and create modules and packages in Python.
 

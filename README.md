@@ -2,6 +2,7 @@
 
 **Folder Structure :**
 
+
 ```
 basic_py
 ├─ Input_output
@@ -13,7 +14,13 @@ basic_py
 │  ├─ output.py
 │  ├─ printing_var.py
 │  └─ type_casting_input.py
+├─ OOPS
+│  ├─ classes_objects.py
+│  └─ inheritance.py
 ├─ README.md
+├─ control_structure
+│  ├─ control_statements.py
+│  └─ loops.py
 ├─ data_types
 │  ├─ Boolean
 │  │  └─ boolean.py
@@ -56,6 +63,9 @@ basic_py
 │  └─ python_data_type.md
 ├─ env_check.py
 ├─ first.py
+├─ function
+│  ├─ function.py
+│  └─ lamda.py
 ├─ general_syntax
 │  ├─ built_in_keywords.py
 │  ├─ comments_&_indentation.py
