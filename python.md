@@ -149,6 +149,7 @@ refer to [control structure folder](control_structure).
 
 ## Functions
 Information on defining and using functions in Python, including lambda functions.
+refer to [function folder](function).
 
 ## Modules and Packages
 Guide on how to use and create modules and packages in Python.
