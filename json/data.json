@@ -1,0 +1,22 @@
+{
+    "name": "John Doe",
+    "age": 30,
+    "city": "Bengaluru",
+    "address": {
+      "street": "123 Main St",
+      "zip": "560001"
+    },
+    "hobbies": ["reading", "hiking", "coding"],
+    "isEmployed": true,
+    "skills": [
+      {
+        "name": "Python",
+        "proficiency": "Expert"
+      },
+      {
+        "name": "JavaScript",
+        "proficiency": "Intermediate"
+      }
+    ]
+  }
+  
