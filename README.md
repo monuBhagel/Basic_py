@@ -80,7 +80,9 @@ basic_py
 │  └─ understanding_json.py
 ├─ modules
 │  ├─ date.md
-│  └─ dates.py
+│  ├─ dates.py
+│  ├─ regex.md
+│  └─ regular_expression.py
 ├─ python.md
 ├─ python_basic
 │  ├─ operators.py
