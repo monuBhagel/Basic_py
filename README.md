@@ -1,120 +1,172 @@
-# This is a Basic Python revision repo
+# Python Programming
 
-**Folder Structure :**
+## Table of Contents
+- [Introduction](#introduction)
+- [Installation](#installation)
+- [Basic Syntax](#basic-syntax)
+- [Variables](#variables)
+- [Input and Output](#input-output)
+- [Data Types](#data-types)
+- [Control Structures](#control-structures)
+- [Functions](#functions)
+- [Modules and Packages](#modules-and-packages)
+- [File Handling](#file-handling)
+- [Exception Handling](#Exception-handling)
+- [Folder Structure](#Folder Structure)
+
+## Introduction
+
+python is a High-level programming language.
+Crated by "Guido van Rossum in 1991."
+
+It is a general purpose programming language and is used in various sector such as :-
+- web dev
+- software developement
+- machine learning tasks & AI
+- database handling 
+- automation & many more.
+
+**Why use python ?**
+- python works on multi-platform such as (windows, mac, linux, pi, etc).
+- It has simple syntax similar to english language.
+- It runs on an interpreter system . 
+- Python can be treated in Procedural as well as  -Object-oriented and functional way.
+- The most recent major version of Python is Python 3 and python has a good community of developers
 
 
+
+## Installation
+Instructions on how to install Python on different operating systems.
+
+**1. On Windows**
+    
+ **1. Download Python Installer:**
+
+[Download Python](https://www.python.org/downloads/)
+ The website should automatically suggest the latest version of Python for Windows. 
+ Click the "Download Python" button.
+
+**2. Run the Installer:**
+
+ Make sure to check the box that says "Add Python to PATH" before clicking "Install Now." 
+ This will ensure you can run Python from the command line without needing to specify its full path.
+
+ **3. Complete the Installation:**
+
+ Follow the prompts to complete the installation process.
+
+ **4. Verify Installation:**
+     
+ Open Command Prompt (press Win + R, type cmd, and hit Enter).
+    
+ Type the following to check the Python version:
+ ```sh
+     python --version
+ ```
+
+ ```sh
+     python -v
+ ```
+
+**2. On macOS**
+
+**1. Download Python Installer:**
+
+[Download Python](https://www.python.org/downloads/)
+The website should automatically suggest the latest version of Python for macOS.
+Click the "Download Python" button.
+
+**2. Run the Installer:**
+
+Open the downloaded .pkg file and follow the prompts to install Python.
+
+**3. Verify Installation:**
+
+Open Terminal (you can find it in Applications > Utilities or press Command + Space and type Terminal).
+
+Type the following to check the Python version:
+```sh
+python3 --version
 ```
-basic_py
-├─ Input_output
-│  ├─ Output_Formatting.py
-│  ├─ advance_i
-│  │  └─ p_tech.py
-│  ├─ input.py
-│  ├─ multiple_input.py
-│  ├─ output.py
-│  ├─ printing_var.py
-│  └─ type_casting_input.py
-├─ OOPS
-│  ├─ classes_objects.py
-│  ├─ inheritance.py
-│  └─ polymorphism.py
-├─ README.md
-├─ control_structure
-│  ├─ control_statements.py
-│  └─ loops.py
-├─ data_types
-│  ├─ Boolean
-│  │  └─ boolean.py
-│  ├─ Numbers
-│  │  └─ number.py
-│  ├─ Sequence
-│  │  ├─ Dictionary
-│  │  │  ├─ copy_dict.py
-│  │  │  ├─ dict.py
-│  │  │  ├─ looping_dict.py
-│  │  │  └─ nested_dict.py
-│  │  ├─ List
-│  │  │  ├─ access_using_loop.py
-│  │  │  ├─ accessing_list.py
-│  │  │  ├─ add_change_list.py
-│  │  │  ├─ copy_list.py
-│  │  │  ├─ join_list.py
-│  │  │  ├─ list.py
-│  │  │  ├─ list_comprehension.py
-│  │  │  ├─ list_methods.md
-│  │  │  ├─ method.py
-│  │  │  └─ sort_list.py
-│  │  ├─ Set
-│  │  │  ├─ modify_set.py
-│  │  │  └─ set.py
-│  │  └─ Tuple
-│  │     ├─ access_tuple.py
-│  │     ├─ loop_tuple.py
-│  │     ├─ packing_inpacking.py
-│  │     ├─ tuple.py
-│  │     ├─ tuple_method&join.py
-│  │     └─ update_tuple.py
-│  ├─ String
-│  │  ├─ format_string.py
-│  │  ├─ slicing_string.py
-│  │  ├─ string.py
-│  │  ├─ string_method.md
-│  │  ├─ string_method.py
-│  │  └─ string_modification.py
-│  └─ python_data_type.md
-├─ env_check.py
-├─ exception_handling
-│  └─ Exception_handling.py
-├─ file_handling
-│  ├─ example.txt
-│  ├─ file_handling.py
-│  ├─ file_opertaion.py
-│  ├─ file_path.py
-│  ├─ reading_a_file.py
-│  ├─ with_statement.py
-│  ├─ write_example.txt
-│  └─ writing_to_file.py
-├─ first.py
-├─ function
-│  ├─ function.py
-│  └─ lamda.py
-├─ general_syntax
-│  ├─ built_in_keywords.py
-│  ├─ comments_&_indentation.py
-│  ├─ keyword.md
-│  ├─ keywords.txt
-│  └─ syntax.py
-├─ json
-│  ├─ convert_py_to_json.py
-│  ├─ data.json
-│  └─ understanding_json.py
-├─ modules
-│  ├─ date.md
-│  ├─ dates.py
-│  ├─ regex.md
-│  └─ regular_expression.py
-├─ python.md
-├─ python_basic
-│  ├─ operators.py
-│  ├─ pyIterator.py
-│  └─ understanding_variables
-│     ├─ global_variable.py
-│     ├─ naming_rules.md
-│     ├─ reference_in_python.md
-│     ├─ type_&_type_casting.py
-│     ├─ variable_assingment.py
-│     └─ variables.py
-├─ requirements.txt
-└─ resources
-   ├─ diagrams
-   │  ├─ garbage.dio
-   │  ├─ x&y_refer_diff_value.dio
-   │  ├─ x_refer_value.dio
-   │  └─ x_y_refer_value.dio
-   └─ images
-      ├─ garbage.png
-      ├─ x&y_refer_diff_value.png
-      ├─ x_refer_value.png
-      └─ x_y_refer_value.png
 
+```sh
+python3 -v
 ```
+
+**3. Using Homebrew**
+
+**1. Install Homebrew:**
+
+If you don't have Homebrew installed, open Terminal and run:
+```sh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+
+**2. Install Python:**
+
+Once Homebrew is installed, run the following command to install Python:
+```sh
+brew install python
+```
+
+**3. Verify Installation:**
+
+Check the Python version to ensure it is installed correctly:
+```sh
+python3 --version
+```
+
+```sh
+python3 -v
+```
+
+
+
+## Basic Syntax
+
+Overview of Python syntax and basic programming constructs.
+
+For a detailed explanation, refer to [syntax.py](general_syntax/syntax.py).
+
+## Variables
+In Python, variables are used to store data that can be referenced and manipulated during program execution. 
+
+For a detailed explanation on what is variable , variable assingment , type and type casting , naming convention , refer to [understanding_variables](python_basic/understanding_variables).
+
+## Input Output
+Understanding input and output operations is fundamental to Python programming. With the print() function, we can display output in various formats, while the input() function enables interaction with users by gathering input during program execution.
+
+For a detailed explanation on input , output , refer to [Input Output folder](input_output).
+
+## Data Types
+Explanation of different data types in Python such as integers, floats, strings, lists, tuples, dictionaries, and sets.
+
+For a detailed explanation on input , output , refer to [data_types folder](data_types).
+
+## Control Structures
+Details on control structures like if statements, loops (for, while), and comprehensions.
+refer to [control structure folder](control_structure).
+
+## Functions
+Information on defining and using functions in Python, including lambda functions.
+refer to [function folder](function).
+
+## OOPS concept
+Information on defining and using classes and object in Python, including inheritance , polymorphism , encapsulation.
+refer to [OOPS folder](OOPS).
+
+## Modules and Packages
+Guide on how to use and create modules and packages in Python.
+refer to [modules folder](modules).
+
+## File Handling
+Instructions on reading from and writing to files in Python.
+refer to [file_handling folder](file_handling).
+
+## Excepton Handling
+Explanation of error handling in Python using try, except, and finally blocks.
+refer to [Exception_handling folder](Exception_handling).
+
+## Folder Structure
+For folder structure give readme.md a try.👍
+[folder structure](folder_structure.md)
