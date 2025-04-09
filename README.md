@@ -11,7 +11,7 @@
 - [Functions](#functions)
 - [Modules and Packages](#modules-and-packages)
 - [File Handling](#file-handling)
-- [Excepton Handling](#Excepton-Handlingg)
+- [Excepton Handling](#Excepton-Handling)
 - [Folder Structure](#Folder_Structure)
 
 ## Introduction
@@ -165,7 +165,7 @@ refer to [file_handling folder](file_handling).
 
 ## Excepton Handling
 Explanation of error handling in Python using try, except, and finally blocks.
-refer to [Exception_handling folder](Exception_handling).
+refer to [Exception_handling folder](exception_handling).
 
 ## Folder Structure
 For folder structure give readme.md a try.👍
