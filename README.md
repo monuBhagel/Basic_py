@@ -3,7 +3,6 @@
 **Folder Structure :**
 
 
-
 ```
 basic_py
 ├─ Input_output
@@ -64,6 +63,8 @@ basic_py
 │  │  └─ string_modification.py
 │  └─ python_data_type.md
 ├─ env_check.py
+├─ exception_handling
+│  └─ Exception_handling.py
 ├─ first.py
 ├─ function
 │  ├─ function.py
@@ -94,6 +95,7 @@ basic_py
 │     ├─ type_&_type_casting.py
 │     ├─ variable_assingment.py
 │     └─ variables.py
+├─ requirements.txt
 └─ resources
    ├─ diagrams
    │  ├─ garbage.dio
