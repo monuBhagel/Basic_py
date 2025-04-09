@@ -23,7 +23,7 @@
 try:
     # Code that might raise an exception
     pass
-except SomeException as e:
+except Exception as e:
     # Code that handles the exception
     pass
 else:
