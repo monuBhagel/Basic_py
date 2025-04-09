@@ -11,8 +11,8 @@
 - [Functions](#functions)
 - [Modules and Packages](#modules-and-packages)
 - [File Handling](#file-handling)
-- [Exception Handling](#Exception-handling)
-- [Folder Structure](#Folder Structure)
+- [Excepton Handling](#Excepton-Handlingg)
+- [Folder Structure](#Folder_Structure)
 
 ## Introduction
 
@@ -169,4 +169,4 @@ refer to [Exception_handling folder](Exception_handling).
 
 ## Folder Structure
 For folder structure give readme.md a try.👍
-[folder structure](folder_structure.md)
+[folder_structure](folder_structure.md)
