@@ -12,7 +12,7 @@
 - [Modules and Packages](#modules-and-packages)
 - [File Handling](#file-handling)
 - [Exception Handling](#Exception-handling)
-- [Conclusion](#conclusion)
+- [Readme](#readme)
 
 ## Introduction
 
@@ -161,10 +161,12 @@ refer to [modules folder](modules).
 
 ## File Handling
 Instructions on reading from and writing to files in Python.
+refer to [file_handling folder](file_handling).
 
 ## Excepton Handling
 Explanation of error handling in Python using try, except, and finally blocks.
 refer to [Exception_handling folder](Exception_handling).
 
-## Conclusion
-Summarize the key points covered in the document and provide additional resources for learning Python.
+## Readme
+For folder structure give readme.md a try.👍
+[Readme](README.md)

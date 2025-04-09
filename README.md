@@ -65,6 +65,15 @@ basic_py
 ├─ env_check.py
 ├─ exception_handling
 │  └─ Exception_handling.py
+├─ file_handling
+│  ├─ example.txt
+│  ├─ file_handling.py
+│  ├─ file_opertaion.py
+│  ├─ file_path.py
+│  ├─ reading_a_file.py
+│  ├─ with_statement.py
+│  ├─ write_example.txt
+│  └─ writing_to_file.py
 ├─ first.py
 ├─ function
 │  ├─ function.py
