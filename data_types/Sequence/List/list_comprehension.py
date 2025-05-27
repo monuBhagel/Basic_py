@@ -18,7 +18,8 @@ print(fruits_with_a)
 
 # With list comprehension we can do all that with only one line of code:
 print("\nlist comprehension :")
-new_list =[fruit for fruit in fruits if "a" in fruit]
+new_list =[x for x in fruits if "a" in x]
+
 
 print(new_list)
 

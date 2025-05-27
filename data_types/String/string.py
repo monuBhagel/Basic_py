@@ -14,7 +14,7 @@ print(f"{name} is {post}")
 '''to put quotes inside quotes use the escape character "\" '''
 print("before that he was known as \"falcon\" . ")
 
-#or just use the quotes which is not used in the string i.e if string is in double quote use singlw quotes inside it.
+#or just use the quotes which is not used in the string i.e if string is in double quote use single quotes inside it.
 
 print("he was the part of the team called 'avengers' . ")
 
@@ -52,7 +52,7 @@ print(f"length of name is {len(name)}")
 
 
 # Check String 
-''' to check if certain phrase or character is present in the string we can use the 'in' keyword'''
+''' to check if certain phrase or character is present in the string we can use the 'in' keyword or say the membership operator.'''
 
 if "tony" in name  : 
     print("tony is present.")

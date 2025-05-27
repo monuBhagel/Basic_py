@@ -10,28 +10,28 @@ print(name.capitalize()) # when name is   name = "bruece banner  capatilize meth
 
 # upper case
 '''this convertes the string into upper case'''
-print(name.upper()) 
+print(name.upper()) # ---BRUCE--BANNER---
 
 # lower case
 '''this convertes the string into lower case''' 
-print(name.lower())
+print(name.lower()) # ---bruce--banner---
 
-# Remove Whitespace or strip method
-''' this will remove the whitespace from the string. '''
+# Remove Whitespace/blankspace or strip method
+''' this will remove the whitespace/blankspace from the string. '''
 
 post = "  avengers  "
 print(post)
-print(post.strip()) # the default arg of strip is whitespace ,  but you can pass characters to remove from the string.
+print(post.strip()) # result would be "avengers" .  The default arg of strip is whitespace ,  but you can pass characters to remove from the string.
 
-print(name)
-print(name.strip("-"))  # this will remove "-" from the start and the end but not in between the string.
+print(name) # ---bruce--banner---
+print(name.strip("-"))  #  bruce--banner. This will remove "-" from the start and the end but not in between the string.
 
 
 # Replace String
 '''this will replace the string with the given string.'''
-print(f"post is {post}")
+print(f"post is {post}") # post is   avengers
 
-print(post.replace("avengers", "hulk")) 
+print(f"post is {post.replace('avengers', 'hulk')}") # post is   hulk 
 
 
 # Split String
@@ -42,7 +42,7 @@ fruits = "apple, banana , cherry, watermelon"
 
 fruits_list = fruits.split(',') 
 
-print(fruits_list)
+print(fruits_list) # ['apple', ' banana ', ' cherry', ' watermelon']
 
 # string concatenation
 
@@ -51,9 +51,9 @@ last_name = "stark"
 
 full_name = first_name + last_name
 
-print(f"first name is : {first_name}")
-print(f"last name is : {last_name}")
-print(f"full name is : {full_name}")
+print(f"first name is : {first_name}") # first name is : tony
+print(f"last name is : {last_name}") # last name is : stark
+print(f"full name is : {full_name}") # full name is : tonystark
 
-print(first_name + " " + last_name)
+print(first_name + " " + last_name) # tony stark
 
